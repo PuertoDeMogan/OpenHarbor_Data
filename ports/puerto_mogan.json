@@ -5,43 +5,43 @@
   "submission_endpoint": null,
   "sensors": {
     "air_temperature": {
-      "value": 22.3,
+      "value": 23.3,
       "unit": "°C",
       "icon": "mdi:thermometer",
       "writable": false
     },
     "humidity": {
-      "value": 68,
+      "value": 48,
       "unit": "%",
       "icon": "mdi:water-percent",
       "writable": false
     },
     "wind_speed": {
-      "value": 14.2,
+      "value": 104.2,
       "unit": "km/h",
       "icon": "mdi:weather-windy",
       "writable": false
     },
     "wind_direction": {
-      "value": 210,
+      "value": 10,
       "unit": "°",
       "icon": "mdi:compass",
       "writable": false
     },
     "wave_height": {
-      "value": 0.8,
+      "value": 2.8,
       "unit": "m",
       "icon": "mdi:waves",
       "writable": false
     },
     "water_temperature": {
-      "value": 19.5,
+      "value": 19.1,
       "unit": "°C",
       "icon": "mdi:thermometer-water",
       "writable": false
     },
     "berths_available": {
-      "value": 12,
+      "value": 7,
       "unit": "ud",
       "icon": "mdi:ferry",
       "writable": true,
@@ -50,7 +50,7 @@
       "max": 500
     },
     "port_status": {
-      "value": "open",
+      "value": "closed",
       "unit": null,
       "icon": "mdi:anchor",
       "writable": true,
