@@ -1,0 +1,65 @@
+{
+  "port_id": "puerto_mogan",
+  "name": "Puerto de Mogán",
+  "last_updated": "2026-03-23T01:23:14Z",
+  "submission_endpoint": null,
+  "sensors": {
+    "air_temperature": {
+      "value": 22.3,
+      "unit": "°C",
+      "icon": "mdi:thermometer",
+      "writable": false
+    },
+    "humidity": {
+      "value": 68,
+      "unit": "%",
+      "icon": "mdi:water-percent",
+      "writable": false
+    },
+    "wind_speed": {
+      "value": 14.2,
+      "unit": "km/h",
+      "icon": "mdi:weather-windy",
+      "writable": false
+    },
+    "wind_direction": {
+      "value": 210,
+      "unit": "°",
+      "icon": "mdi:compass",
+      "writable": false
+    },
+    "wave_height": {
+      "value": 0.8,
+      "unit": "m",
+      "icon": "mdi:waves",
+      "writable": false
+    },
+    "water_temperature": {
+      "value": 19.5,
+      "unit": "°C",
+      "icon": "mdi:thermometer-water",
+      "writable": false
+    },
+    "berths_available": {
+      "value": 12,
+      "unit": "ud",
+      "icon": "mdi:ferry",
+      "writable": true,
+      "type": "number",
+      "min": 0,
+      "max": 500
+    },
+    "port_status": {
+      "value": "open",
+      "unit": null,
+      "icon": "mdi:anchor",
+      "writable": true,
+      "type": "select",
+      "options": [
+        "open",
+        "closed",
+        "restricted"
+      ]
+    }
+  }
+}
