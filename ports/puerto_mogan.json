@@ -7,7 +7,8 @@
     {
       "id": "darsena",
       "name": "Playa Amadores",
-      "stream_url": "https://camserver2.in2thebeach.es/streams/playa_de_amadores/index.m3u8"
+      "stream_url": "https://camserver2.in2thebeach.es/streams/playa_de_amadores/index.m3u8",
+      "writable": true
     }
   ],
   "sensors": {
