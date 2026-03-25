@@ -3,6 +3,14 @@
   "name": "Puerto de Mogán",
   "last_updated": "2026-03-23T01:23:14Z",
   "submission_endpoint": null,
+  "cameras": [
+    {
+      "id": "darsena",
+      "name": "Puerto Mogan - Dársena",
+      "still_image_url": "https://embed.skylinewebcams.com/img/1516.jpg",
+      "stream_url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9pt6v5mb27r4tav6hd6q20r4n6"
+    }
+  ],
   "sensors": {
     "air_temperature": {
       "value": 23.3,
