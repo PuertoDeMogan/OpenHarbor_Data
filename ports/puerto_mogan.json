@@ -57,7 +57,7 @@
       "max": 500
     },
     "port_status": {
-      "value": "closed",
+      "value": "open",
       "unit": null,
       "icon": "mdi:anchor",
       "writable": true,
