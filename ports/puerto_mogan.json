@@ -1,7 +1,7 @@
 {
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
-  "last_updated": "2026-03-23T01:23:14Z",
+  "last_updated": "2026-03-25T15:02:35Z",
   "submission_endpoint": null,
   "cameras": [
     {
@@ -19,7 +19,7 @@
       "writable": false
     },
     "humidity": {
-      "value": 48,
+      "value": 48.0,
       "unit": "%",
       "icon": "mdi:water-percent",
       "writable": false
@@ -31,7 +31,7 @@
       "writable": false
     },
     "wind_direction": {
-      "value": 10,
+      "value": 10.0,
       "unit": "°",
       "icon": "mdi:compass",
       "writable": false
@@ -58,7 +58,7 @@
       "max": 500
     },
     "port_status": {
-      "value": "closed",
+      "value": "open",
       "unit": null,
       "icon": "mdi:anchor",
       "writable": true,
