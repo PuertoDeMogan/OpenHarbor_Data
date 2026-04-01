@@ -24,7 +24,7 @@
       "writable": false
     },
     "wind_speed": {
-      "value": 104.2,
+      "value": 17.0,
       "unit": "km/h",
       "icon": "mdi:weather-windy",
       "writable": false
@@ -48,7 +48,7 @@
       "writable": false
     },
     "berths_available": {
-      "value": 7,
+      "value": 6.0,
       "unit": "ud",
       "icon": "mdi:ferry",
       "writable": true,
