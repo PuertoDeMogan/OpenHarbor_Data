@@ -2,7 +2,6 @@
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
   "last_updated": "2026-03-25T15:02:35Z",
-  "submission_endpoint": null,
   "cameras": [
     {
       "id": "darsena",
