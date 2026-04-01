@@ -1,7 +1,7 @@
 {
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
-  "last_updated": "2026-04-01T10:09:56Z",
+  "last_updated": "2026-04-01T10:04:55Z",
   "submission_endpoint": null,
   "cameras": [
     {
@@ -25,7 +25,7 @@
       "writable": false
     },
     "wind_speed": {
-      "value": 16.0,
+      "value": 7.0,
       "unit": "km/h",
       "icon": "mdi:weather-windy",
       "writable": false
@@ -49,7 +49,7 @@
       "writable": false
     },
     "berths_available": {
-      "value": 5.0,
+      "value": 6.0,
       "unit": "ud",
       "icon": "mdi:ferry",
       "writable": true,
@@ -58,7 +58,7 @@
       "max": 500
     },
     "port_status": {
-      "value": "open",
+      "value": "closed",
       "unit": null,
       "icon": "mdi:anchor",
       "writable": true,
