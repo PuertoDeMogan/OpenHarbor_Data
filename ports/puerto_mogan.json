@@ -1,7 +1,7 @@
 {
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
-  "last_updated": "2026-03-25T15:02:35Z",
+  "last_updated": "2026-04-09T11:00:00Z",
   "cameras": [
     {
       "id": "darsena",
@@ -35,16 +35,40 @@
       "icon": "mdi:compass",
       "writable": false
     },
-    "wave_height": {
-      "value": 2.8,
-      "unit": "m",
-      "icon": "mdi:waves",
+    "wind_gust": {
+      "value": 28.0,
+      "unit": "km/h",
+      "icon": "mdi:weather-windy-variant",
       "writable": false
     },
-    "water_temperature": {
-      "value": 19.1,
-      "unit": "°C",
-      "icon": "mdi:thermometer-water",
+    "atmospheric_pressure": {
+      "value": 1015.0,
+      "unit": "hPa",
+      "icon": "mdi:gauge",
+      "writable": false
+    },
+    "visibility": {
+      "value": 10.0,
+      "unit": "km",
+      "icon": "mdi:eye",
+      "writable": false
+    },
+    "precipitation": {
+      "value": 0.0,
+      "unit": "mm",
+      "icon": "mdi:weather-rainy",
+      "writable": false
+    },
+    "weather_condition": {
+      "value": "sunny",
+      "unit": null,
+      "icon": "mdi:weather-sunny",
+      "writable": false
+    },
+    "weather_alert": {
+      "value": "none",
+      "unit": null,
+      "icon": "mdi:alert-circle-outline",
       "writable": false
     },
     "berths_available": {
