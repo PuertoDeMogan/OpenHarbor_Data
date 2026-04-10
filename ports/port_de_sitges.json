@@ -1,0 +1,96 @@
+{
+  "port_id": "port_de_sitges",
+  "name": "Purt de Sitges",
+  "last_updated": "2026-04-09T11:00:00Z",
+  "cameras": [
+    {
+      "id": "darsena",
+      "name": "Puerto de Sitges",
+      "stream_url": "https://s166.ipcamlive.com/streams/a6gpclaqu0sdmvoex/stream.m3u8",
+      "writable": true
+    }
+  ],
+  "sensors": {
+    "air_temperature": {
+      "value": 23.3,
+      "unit": "°C",
+      "icon": "mdi:thermometer",
+      "writable": false
+    },
+    "humidity": {
+      "value": 48.0,
+      "unit": "%",
+      "icon": "mdi:water-percent",
+      "writable": false
+    },
+    "wind_speed": {
+      "value": 17.0,
+      "unit": "km/h",
+      "icon": "mdi:weather-windy",
+      "writable": false
+    },
+    "wind_direction": {
+      "value": 10.0,
+      "unit": "°",
+      "icon": "mdi:compass",
+      "writable": false
+    },
+    "wind_gust": {
+      "value": 28.0,
+      "unit": "km/h",
+      "icon": "mdi:weather-windy-variant",
+      "writable": false
+    },
+    "atmospheric_pressure": {
+      "value": 1015.0,
+      "unit": "hPa",
+      "icon": "mdi:gauge",
+      "writable": false
+    },
+    "visibility": {
+      "value": 10.0,
+      "unit": "km",
+      "icon": "mdi:eye",
+      "writable": false
+    },
+    "precipitation": {
+      "value": 0.0,
+      "unit": "mm",
+      "icon": "mdi:weather-rainy",
+      "writable": false
+    },
+    "weather_condition": {
+      "value": "sunny",
+      "unit": null,
+      "icon": "mdi:weather-sunny",
+      "writable": false
+    },
+    "weather_alert": {
+      "value": "none",
+      "unit": null,
+      "icon": "mdi:alert-circle-outline",
+      "writable": false
+    },
+    "berths_available": {
+      "value": 6.0,
+      "unit": "ud",
+      "icon": "mdi:ferry",
+      "writable": true,
+      "type": "number",
+      "min": 0,
+      "max": 500
+    },
+    "port_status": {
+      "value": "open",
+      "unit": null,
+      "icon": "mdi:anchor",
+      "writable": true,
+      "type": "select",
+      "options": [
+        "open",
+        "closed",
+        "restricted"
+      ]
+    }
+  }
+}
