@@ -55,7 +55,7 @@
     },
     "precipitation": {
       "value": "None",
-      "unit": "mm",
+      "unit": "mm/h",
       "icon": "mdi:weather-rainy",
       "writable": false
     },
