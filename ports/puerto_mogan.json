@@ -1,7 +1,7 @@
 {
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
-  "last_updated": "2026-04-22T21:56:01Z",
+  "last_updated": "2026-04-22T22:36:02Z",
   "cameras": [
     {
       "id": "darsena",
@@ -30,13 +30,13 @@
       "writable": false
     },
     "wind_direction": {
-      "value": 70.0,
+      "value": 86.0,
       "unit": "°",
       "icon": "mdi:compass",
       "writable": false
     },
     "wind_gust": {
-      "value": 5.076,
+      "value": 5.148,
       "unit": "km/h",
       "icon": "mdi:weather-windy-variant",
       "writable": false
