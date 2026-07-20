@@ -1,7 +1,7 @@
 {
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
-  "last_updated": "2026-07-20T01:33:33Z",
+  "last_updated": "2026-07-20T01:43:36Z",
   "cameras": [
     {
       "id": "darsena",
@@ -42,7 +42,7 @@
       "writable": false
     },
     "atmospheric_pressure": {
-      "value": 1014.0,
+      "value": 1015.0,
       "unit": "hPa",
       "icon": "mdi:gauge",
       "writable": false
