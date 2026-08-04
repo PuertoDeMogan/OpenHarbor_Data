@@ -1,7 +1,7 @@
 {
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
-  "last_updated": "2026-08-04T12:47:00Z",
+  "last_updated": "2026-08-04T12:57:05Z",
   "cameras": [
     {
       "id": "darsena",
@@ -12,7 +12,7 @@
   ],
   "sensors": {
     "air_temperature": {
-      "value": 32.13,
+      "value": 32.14,
       "unit": "°C",
       "icon": "mdi:thermometer",
       "writable": false
