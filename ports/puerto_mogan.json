@@ -1,7 +1,7 @@
 {
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
-  "last_updated": "2026-08-05T21:36:13Z",
+  "last_updated": "2026-08-05T21:46:15Z",
   "cameras": [
     {
       "id": "darsena",
@@ -18,7 +18,7 @@
       "writable": false
     },
     "humidity": {
-      "value": 51.0,
+      "value": 52.0,
       "unit": "%",
       "icon": "mdi:water-percent",
       "writable": false
