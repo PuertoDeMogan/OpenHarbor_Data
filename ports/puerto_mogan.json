@@ -1,7 +1,7 @@
 {
   "port_id": "puerto_mogan",
   "name": "Puerto de Mogán",
-  "last_updated": "2026-11-12T22:22:56Z",
+  "last_updated": "2026-11-12T22:37:58Z",
   "cameras": [
     {
       "id": "darsena",
@@ -48,7 +48,7 @@
       "writable": false
     },
     "visibility": {
-      "value": 805.0,
+      "value": 238.0,
       "unit": "km",
       "icon": "mdi:eye",
       "writable": false
